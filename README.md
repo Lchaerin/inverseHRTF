@@ -1,2 +1,4 @@
 # inverseHRTF
-Calculate audio source's location from binaural sound
+Calculates audio source's location from binaural sound
+
+Used data from [HRTF-HATS-KAIST](https://github.com/han-saram/HRTF-HATS-KAIST)
